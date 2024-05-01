@@ -1,7 +1,8 @@
-### Requirements
+### 1. Requirements
 1. Python and anaconda environment
 2. You will need 4.7GB of memory to download Llama3 model, so if you don't have enough space on your device work in Google Colab
-### Installation
+
+### 2. Installation
 
 1. Go to project directory and run the following command:
 ```
@@ -16,4 +17,9 @@ ollama serve
 4. After you make sure you installed Ollama correctly, go and run this command in your project directory:
 ```
 ollama pull llama3
+```
+
+### 3. Running the app
+```
+streamlit run app.py
 ```
