@@ -23,3 +23,5 @@ ollama pull llama3
 ```
 streamlit run app.py
 ```
+
+### 4. You can also run it using Docker by using the included Dockerfile
