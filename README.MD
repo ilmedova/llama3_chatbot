@@ -1,3 +1,7 @@
+This is AI chatbot using Python, Langchain, and LLMs (specifically Llama3 model)
+
+If you want to get more information on Llama models, check out this link: https://llama.meta.com/docs/get-started/
+
 ### 1. Requirements
 1. Python and anaconda environment
 2. You will need 4.7GB of memory to download Llama3 model, so if you don't have enough space on your device work in Google Colab
